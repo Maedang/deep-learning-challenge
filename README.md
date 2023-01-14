@@ -10,6 +10,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ### Part2: Compiling, Training, and Evaluating the Model
 •	We use 3 layers for each Neural Network Model. The activations are implemented in our model are “relu” and sigmoid. 
+
 ![image](https://user-images.githubusercontent.com/107284844/212457192-51601142-b594-432b-8c7a-48003788f5de.png)
 
 ![image](https://user-images.githubusercontent.com/107284844/212457195-e8b6ca1c-5bab-480f-82dd-cb1cc3b57e2e.png)
@@ -18,6 +19,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 
 ![image](https://user-images.githubusercontent.com/107284844/212457208-74740c8e-fb2f-47ad-a77a-3752ca28ca65.png)
+
 •	With the same number of layers and activation, however, when we change the binning value, we created more params. In the optimizer model, we had 44,162 params. The accuracy is 77.49%. We achieve the target model performance (75%)
 
 ![image](https://user-images.githubusercontent.com/107284844/212457222-4dd33d5f-969b-4297-bc57-953e5ab38077.png)
