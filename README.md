@@ -14,13 +14,15 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ![image](https://user-images.githubusercontent.com/107284844/212457195-e8b6ca1c-5bab-480f-82dd-cb1cc3b57e2e.png)
 
-•The first model, we have 11,821 params in total. The accuracy is 73% ![image](https://user-images.githubusercontent.com/107284844/212457199-c5f1cfb4-c233-4054-b68f-f83eb5ee8275.png)
+•The first model, we have 11,821 params in total. The accuracy is 73% !
 
 
 ![image](https://user-images.githubusercontent.com/107284844/212457208-74740c8e-fb2f-47ad-a77a-3752ca28ca65.png)
 •	With the same number of layers and activation, however, when we change the binning value, we created more params. In the optimizer model, we had 44,162 params. The accuracy is 77.49%. We achieve the target model performance (75%)
 
 ![image](https://user-images.githubusercontent.com/107284844/212457222-4dd33d5f-969b-4297-bc57-953e5ab38077.png)
+
+
 ![image](https://user-images.githubusercontent.com/107284844/212457229-9bf4631b-4658-4f4f-b3f9-e5670f802dee.png)
 
 
