@@ -18,10 +18,10 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 
 ![image](https://user-images.githubusercontent.com/107284844/212457208-74740c8e-fb2f-47ad-a77a-3752ca28ca65.png)
-•	With the same number of layers and activation, however, when we change the binning value, we created more params. In the optimizer model, we had 44,162 params. The accuracy is 77.49%. We achieve the target model performance (75%)![image](https://user-images.githubusercontent.com/107284844/212457213-c47e59dd-d96b-4dc6-badc-18a7152a86bc.png)
+•	With the same number of layers and activation, however, when we change the binning value, we created more params. In the optimizer model, we had 44,162 params. The accuracy is 77.49%. We achieve the target model performance (75%)
 
 ![image](https://user-images.githubusercontent.com/107284844/212457222-4dd33d5f-969b-4297-bc57-953e5ab38077.png)
 ![image](https://user-images.githubusercontent.com/107284844/212457229-9bf4631b-4658-4f4f-b3f9-e5670f802dee.png)
 
 
-## Summary: To increase the model performance, we need to increase the params and there is more than one way to do it. The strategy we use in the optimizer is changing the binning. Instead of removing the applicants’ names completely, we will combine the applicants have less than 10 count as “Others”. We could also increase the params by adding more hidden layers or nodes. ![image](https://user-images.githubusercontent.com/107284844/212457234-7df238fa-dc42-45fc-a578-5507cb3346d6.png)
+## Summary: To increase the model performance, we need to increase the params and there is more than one way to do it. The strategy we use in the optimizer is changing the binning. Instead of removing the applicants’ names completely, we will combine the applicants have less than 10 count as “Others”. We could also increase the params by adding more hidden layers or nodes. 
